@@ -31,3 +31,13 @@ Suggestions, feedback, and ideas for improving the toolkit are welcome as the pr
 ---
 
 *Built to help people move with a little less stress and a little more confidence.*
+
+## Community project
+
+Started by **MayhemKitty**, this project welcomes community contributions to make long-distance moving easier and more affordable.
+
+The goal is to keep the essential toolkit freely accessible and encourage suggestions, improvements, and contributions from others.
+
+## License
+
+The workbook and companion guide are intended to be shared under the [Creative Commons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/), subject to the terms described in [LICENSE-MATERIALS.md](LICENSE-MATERIALS.md).
